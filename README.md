@@ -1,11 +1,12 @@
 # SVHNClassifier
 
 Implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](http://arxiv.org/pdf/1312.6082.pdf) 
-
+This project uses TensorFlow
 
 ## Results
 
-### Accuracy
+
+## Accuracy
 
 * Best accuracy: 0.936
 
@@ -36,14 +37,14 @@ Implementation of [Multi-digit Number Recognition from Street View Imagery using
     ```
 
 
-2. Train
+2. Training Process
 
     ```
     Open `Train.ipynb` in Jupyter
     ```
 
 
-3. Evaluate
+3. Evaluate the Result
 
     ```
     Open `Test.ipynb` in Jupyter
