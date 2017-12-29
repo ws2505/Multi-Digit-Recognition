@@ -4,8 +4,7 @@ This project uses TensorFlow to implement [Multi-digit Number Recognition from S
 
 
 ## Results
-![image](http://github.com/ws2505/Multi-DigitRecognition/image/res.png)
-
+![image](http://github.com/ws2505/Multi-DigitRecognition/CNNArch.png)
 ## Accuracy
 
 * Best accuracy: 0.936
